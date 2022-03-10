@@ -1,4 +1,4 @@
-process.env.DBHOST = 'localhost';
-process.env.DBUSER = 'root';
-process.env.DBPASSWORD = '';
-process.env.DBDATABASE = 'chat_app';
+process.env.DBHOST = '<DBHOST>';
+process.env.DBUSER = '<DBUSER>';
+process.env.DBPASSWORD = '<DBPASSWORD>';
+process.env.DBDATABASE = '<DBDATABASE>';
